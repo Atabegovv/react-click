@@ -1,9 +1,10 @@
+import { RandomNumber } from './components/RandomNumber';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-			rect
+			<RandomNumber maxNum={1000} />
     </div>
   );
 }

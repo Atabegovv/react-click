@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-click/static/css/main.6f90f956.css",
+    "main.js": "/react-click/static/js/main.15ab6847.js",
+    "index.html": "/react-click/index.html",
+    "main.6f90f956.css.map": "/react-click/static/css/main.6f90f956.css.map",
+    "main.15ab6847.js.map": "/react-click/static/js/main.15ab6847.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f90f956.css",
+    "static/js/main.15ab6847.js"
+  ]
+}
